@@ -1,0 +1,96 @@
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\appsettings.Development.json
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\appsettings.json
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\DariusPetDesk.exe
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\DariusPetDesk.deps.json
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\DariusPetDesk.runtimeconfig.json
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\DariusPetDesk.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\DariusPetDesk.pdb
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\AdvancedStringBuilder.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Castle.Core.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\FluentAssertions.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\JavaScriptEngineSwitcher.Core.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\JSPool.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Moq.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\React.AspNet.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\React.AspNet.Middleware.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\React.Core.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\xunit.abstractions.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.csproj.AssemblyReference.cache
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.AssemblyInfoInputs.cache
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.AssemblyInfo.cs
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.csproj.CoreCompileInputs.cache
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\scopedcss\bundle\DariusPetDesk.styles.css
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.csproj.CopyComplete
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\refint\DariusPetDesk.dll
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.pdb
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.genruntimeconfig.cache
+C:\Users\IeeTeY\source\repos\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\ref\DariusPetDesk.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\appsettings.Development.json
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\appsettings.json
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\DariusPetDesk.exe
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\DariusPetDesk.deps.json
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\DariusPetDesk.runtimeconfig.json
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\DariusPetDesk.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\DariusPetDesk.pdb
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\AdvancedStringBuilder.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Castle.Core.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\FluentAssertions.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\JavaScriptEngineSwitcher.Core.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\JSPool.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Moq.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\React.AspNet.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\React.AspNet.Middleware.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\React.Core.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\xunit.abstractions.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.csproj.AssemblyReference.cache
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.AssemblyInfoInputs.cache
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.AssemblyInfo.cs
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\scopedcss\bundle\DariusPetDesk.styles.css
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.csproj.CopyComplete
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\refint\DariusPetDesk.dll
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.pdb
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\DariusPetDesk.genruntimeconfig.cache
+C:\Users\dariu\Desktop\PetDesk project\DariusPetDesk\DariusPetDesk\obj\Release\net6.0\ref\DariusPetDesk.dll

@@ -1,0 +1,122 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "PetDesk Minimal API",
+    "description": "",
+    "termsOfService": "http://www.fakeurl.com",
+    "contact": {
+      "name": "Darius Castillo",
+      "url": "http://www.fakeurl.com",
+      "email": "darius.castillo@azurewebservices.com"
+    },
+    "license": {
+      "name": "Fake License",
+      "url": "http://www.fakeurl.com"
+    },
+    "version": "v1"
+  },
+  "paths": {
+    "/appointment/Root": {
+      "get": {
+        "tags": [
+          "Root"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Root"
+              }
+            }
+          },
+          "404": {
+            "description": "Not Found",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Root"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "Animal": {
+      "type": "object",
+      "properties": {
+        "animalId": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "firstName": {
+          "type": "string"
+        },
+        "species": {
+          "type": "string"
+        },
+        "breed": {
+          "type": "string"
+        }
+      }
+    },
+    "Root": {
+      "type": "object",
+      "properties": {
+        "appointmentId": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "appointmentType": {
+          "type": "string"
+        },
+        "createDateTime": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "requestedDateTimeOffset": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "user_UserId": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "user": {
+          "$ref": "#/definitions/User"
+        },
+        "animal_AnimalId": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "animal": {
+          "$ref": "#/definitions/Animal"
+        }
+      }
+    },
+    "User": {
+      "type": "object",
+      "properties": {
+        "userId": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "vetDataId": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
